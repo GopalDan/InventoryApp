@@ -3,3 +3,7 @@ This app allows a store-keeper to keep track of its inventory.It stores informat
 # Topic used-
 SQLite, Content Provider, CursorLoader, CursorAdapter, Menu, FloatingAction Button, Alert Dialog, OnTouchListener, Intent etc
 
+# MainActivity
+![Inventory](https://user-images.githubusercontent.com/37050086/57181252-e19c6a00-6eae-11e9-927a-1f7d519c6407.jpg)
+
+
